@@ -1,4 +1,4 @@
-# Global Tensor Motion Planning 1
+# Global Tensor Motion Planning
 
 This repository implements Global Tensor Motion Planning `gtmp` and its smooth structure GTMP-Akima in JAX. 
 
